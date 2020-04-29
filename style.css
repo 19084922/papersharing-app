@@ -1,0 +1,36 @@
+.main{
+	margin:auto;
+	
+}
+.header{
+text-align:center;
+}
+.inp{
+	
+	margin-bottom:5%;
+	border-radius:4%;
+	margin-top:5%;
+	width:50%;
+}
+.field{
+	width:50%;
+	margin:auto;
+	margin-top:10%;
+}
+.submit{
+	width:30%;
+	height:3em;
+}.dsubmit{
+	width:50%;
+	height:3em;
+	margin-bottom:5%;
+}
+.group
+{
+	width:50%;
+	margin-bottom:4%;
+	border-radius:4px;
+}
+body{
+	background:green;
+}
